@@ -1,1 +1,0 @@
-# adguard-filter-list
