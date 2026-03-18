@@ -1,4 +1,3 @@
-#0.0.0.0 eclick.vn
-
+||eclick.vn^
 ||googlesyndication.com^
-
+||doubleclick.net^
