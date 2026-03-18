@@ -1,1 +1,1 @@
-0.0.0.0 vnexpress.net
+0.0.0.0 eclick.vn
